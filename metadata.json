@@ -1,0 +1,6 @@
+{
+  "name": "MedReport Pro",
+  "description": "Sistema profissional para geração e gestão de documentos médicos com suporte a IA e exportação em PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
